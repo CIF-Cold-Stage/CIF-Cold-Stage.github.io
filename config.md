@@ -10,13 +10,10 @@ mintoclevel = 2
 # you might not want. Indicate directories by ending the name with a `/`.
 # Base files such as LICENSE.md and README.md are ignored by default.
 ignore = ["node_modules/"]
-
-# RSS (the website_{title, descr, url} must be defined to get RSS)
-generate_rss = false
-website_title = "CIF Cold Stage"
-website_descr = ""
-website_url   = "https://cif-cold-stage.github.io"
 +++
+
+@def prepath     = ""
+@def website_url = "cif-cold-stage.github.io"
 
 <!--
 Add here global latex commands to use throughout your pages.
