@@ -1,4 +1,0 @@
-Sitemap: cif-cold-stage.github.io/sitemap.xml
-
-User-agent: *
-Disallow:
