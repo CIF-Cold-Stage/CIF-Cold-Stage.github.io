@@ -8,5 +8,6 @@ makedocs(
     "Overview" => "overview.md",
     "Request" => "request.md",
 	"Resources" => "resources.md",
+	"References" => "references.md"
   ]
 )

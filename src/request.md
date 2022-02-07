@@ -1,4 +1,6 @@
-# Request
+# Request Process
+
+## NSF FIRP
 
 The facility can be requested for research or teaching through NSF via the [Facility and Instrumentation Request Process](https://www.nsf.gov/pubs/2021/nsf21611/nsf21611.htm). You can initiate a formal request using the form below. However, it is strongly encouraged to contact the CIF PI to discuss the feasibility of the envisioned education or research activities:
 
@@ -6,7 +8,7 @@ The facility can be requested for research or teaching through NSF via the [Faci
 Web: [https://mdpetters.github.io/](https://mdpetters.github.io/) \
 Email: [mdpetter@ncsu.edu](mailto:mdpetter@ncsu.edu)
 
-## Form
+## Request Form
 
 Please fill out the request form below:
 
