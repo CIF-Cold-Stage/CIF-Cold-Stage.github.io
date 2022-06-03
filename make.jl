@@ -1,7 +1,7 @@
 using Documenter
 
 makedocs(
-  sitename = "Cold Stage",
+  sitename = "Ice Nucleation Cold-Stage",
   authors = "Markus Petters",
   pages = Any[
     "Home" => "index.md",
