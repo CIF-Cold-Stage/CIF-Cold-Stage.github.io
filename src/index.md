@@ -1,6 +1,6 @@
 # Home
 
-## Community Instruments Facilities Program
+## Community Instruments and Facility Program
 
 This facility is part of the National Science Foundation (NSF) Community Instruments and Facility (CIF) suite pool sponsored by the FARE program. A complete list of facilities can be found here: [https://www.nsf.gov/geo/ags/programs/fare/](https://www.nsf.gov/geo/ags/programs/fare/).
 
