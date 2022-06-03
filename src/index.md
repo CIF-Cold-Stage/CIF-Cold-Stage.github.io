@@ -1,5 +1,14 @@
 # Home
 
+## Community Instruments Program
+
+```@raw html
+<img src="assets/NSF_Logo.png" width="150"/>
+```
+
+This facility is part of the National Science Foundation (NSF) Community Instruments and Facility (CIF) suite pool sponsored by the FARE program. A complete list of facilities can be found here: [https://www.nsf.gov/geo/ags/programs/fare/](https://www.nsf.gov/geo/ags/programs/fare/).
+
+
 ## Facility Overview
 
 CIF makes the ice nucleation cold-stage available to the atmospheric science community for investigation of ice nucleating particle concentrations. The CIF comprises the cold-stage cell, cooling system, observation optics, software for data acquisition and image analysis, and a set of samplers. 
