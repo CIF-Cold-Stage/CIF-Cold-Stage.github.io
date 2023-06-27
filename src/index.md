@@ -15,7 +15,7 @@ The cold stage consists of a thermally controlled surface. The surface is cooled
 
 ## Contact
 
-Interested? Contact: Markus Petters, [mdpetter@ncsu.edu](mailto:mdpetter@ncsu.edu).
+Interested? Contact: Markus Petters, [markus.petters@ucr.edu](mailto:markus.petters@ucr.edu).
 
 ## Acknowledgements
 

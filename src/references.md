@@ -1,6 +1,8 @@
 # References
 
-1. Cornwell, G. C.; Sultana, C. M.; Petters, M. D.; Al-Mahat, H.; Rothfuss, N. E.; DeMott, P. J.; Martin, A. C.; Prather, K. A. Discrimination between Dust and Bioaerosol by Aerosol Time-of-Flight Mass Spectrometry. Aerosol Sci. & Technol., under revision.
+1. Yadav, S., Curtis, N. P., Venezia, R. E., Tandon, A., Paerl, R. W., & Petters, M. D. (2022). Bioaerosol diversity and ice nucleating particles in the North-Western Himalayan Region. Journal of Geophysical Research: Atmospheres, 127, e2021JD036299. https://doi.org/10.1029/2021JD036299
+
+1. G. C. Cornwell, C. M. Sultana, M. D. Petters, H. Al-Mashat, N. E. Rothfuss, O. Möhler, P. J. DeMott, A. C. Martin & K. A. Prather (2022) Discrimination between individual dust and bioparticles using aerosol time-of-flight mass spectrometry, Aerosol Science and Technology, 56:7, 592-608, DOI: 10.1080/02786826.2022.2055994
 
 1. Yadav, S.; Venezia, R. E.; Paerl, R. W.; Petters, M. D. Characterization of Ice Nucleating Particles Over Northern India. J. Geophys. Res. Atmospheres 2019, 124 (19), 10467–10482. https://doi.org/10.1029/2019JD030702.
 
